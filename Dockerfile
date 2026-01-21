@@ -1,1 +1,1 @@
-FROM docker.io/projecthami/mock-device-plugin:1.0.1
+FROM projecthami/vxpu-device-plugin:v1.0.0
